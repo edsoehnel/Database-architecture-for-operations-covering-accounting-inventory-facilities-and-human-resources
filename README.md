@@ -1,2 +1,1 @@
-# Database-architecture-for-operations-covering-accounting-inventory-facilities-and-human-resources
-Database architecture for operations, covering accounting, inventory, facilities and human resources
+Documentation here: https://edsoehnel.com/database-architecture-for-operations-covering-accounting-inventory-facilities-and-human-resources/ 
